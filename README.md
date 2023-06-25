@@ -1,3 +1,4 @@
 # REACT HOOKS
 
-1. __UseState__
+1. **UseState**
+2. **UseEffect**
